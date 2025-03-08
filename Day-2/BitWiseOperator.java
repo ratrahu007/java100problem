@@ -20,10 +20,10 @@ class BitWiseOperator
 		System.out.println(result);
 
 		//BitWise & if we use this we have yo convert values in binary format and the the final answer have to convert into binary using 8	4	2	1
-		//if & comes perform multiplication on the Binary values
+		//if & comes perform multiplication on the Binary values if Bitwise '|' come we have to do addition 
 		
 		int e =6;
 		int f=7;
-		System.out.println(e&7);
+		System.out.println(e&7);//6
 	}
 }

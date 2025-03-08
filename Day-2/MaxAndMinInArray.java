@@ -14,6 +14,6 @@ class MaxAndMinInArray
 		System.out.println("it is the MAx in array   "  + arr[arr.length-1]);
 
 
-
+	//This programmes find ther Max and Minn in Array
 	}
 }
